@@ -1,0 +1,33 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel-inner img{
+    width: 100%;
+}
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.smart{
+    margin-bottom: 100px;
+}
+.smart h5{
+    color:orange;
+}
+.card{
+    text-align: center;
+    border: none;
+    box-shadow: .5px .5px 3px lightgray;
+}
+.card-footer{
+    border-top: none;
+}
+.caregories{
+    text-align: center;
+}
+.bag{
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 15px 30px;
+}
